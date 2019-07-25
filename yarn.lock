@@ -16,7 +16,7 @@
     fuzzysearch "^1.0.3"
     json-stringify-safe "^5.0.1"
     keycode "^2.1.1"
-    lodash.pick "^4.2.1"
+    lodash.pick "^4.5.0"
     mantra-core "^1.6.1"
     qs "^6.2.0"
     react-fuzzy "^0.2.3"
